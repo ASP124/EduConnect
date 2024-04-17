@@ -1,0 +1,171 @@
+{
+    "companie": {
+      "TCS": {
+        "title": "TCS National Qualifier Test (NQT)",
+        "registrationLink": "https://learning.tcsionhub.in/hub/national-qualifier-test/",
+        "registrationProcess": "Visit the TCS NQT registration page, create an account, and register for the National Qualifier Test.",
+        "details": [
+          "Explore TCS NQT: [TCS NQT](https://learning.tcsionhub.in/hub/national-qualifier-test/)",
+          "Create an account on the TCS iON platform.",
+          "Register for the National Qualifier Test.",
+          "Select the relevant job role and exam category.",
+          "Pay the registration fee, if applicable.",
+          "Complete the registration process as guided by TCS."
+        ],
+        "selectionProcess": "Online test (Aptitude, Verbal Ability, Programming Logic, Coding), Technical Interview, HR Interview.",
+        "interviewProcess": "Technical interviews followed by HR interviews."
+      },
+      "Infosys": {
+        "title": "    INFOSYS LTD.",
+        "registrationLink": "https://www.infosys.com/careers/",
+        "registrationProcess": "Create an account on the Infosys portal, explore job opportunities, and apply for positions that require an aptitude test.",
+        "details": [
+          "Visit the Infosys careers page: [Infosys Careers](https://www.infosys.com/careers/)",
+          "Create an account on the Infosys portal.",
+          "Explore the available job opportunities.",
+          "Apply for positions that require an aptitude assessment.",
+          "Follow the instructions provided to complete the registration process.",
+          "Prepare for the aptitude test using Infosys' recommended resources."
+        ],
+        "selectionProcess": "Aptitude tests, technical interviews, and HR interviews.",
+        "interviewProcess": "Technical interviews followed by HR interviews."
+      },
+      "WIPRO": {
+        "title": "Wipro Limited",
+        "registrationLink": "https://careers.wipro.com/",
+        "registrationProcess": "Create an account on the Wipro portal, navigate to 'Job Openings', and apply for positions with an aptitude assessment.",
+        "details": [
+          "Visit the Wipro careers portal: [Wipro Careers](https://careers.wipro.com/)",
+          "Create an account on the Wipro portal.",
+          "Navigate to the 'Job Openings' section.",
+          "Apply for the desired position with an aptitude assessment.",
+          "Complete the application process as guided by Wipro.",
+          "Access Wipro's aptitude test preparation materials for better readiness."
+        ],
+        "selectionProcess": "Aptitude tests, technical interviews, and HR interviews.",
+        "interviewProcess": "Technical interviews followed by HR interviews."
+      },
+      "Accenture": {
+        "title": "Accenture",
+        "registrationLink": "https://www.accenture.com/us-en/careers",
+        "registrationProcess": "Visit the Accenture careers page, create an account, search for jobs, and apply for positions with aptitude assessments.",
+        "details": [
+          "Explore Accenture career opportunities: [Accenture Careers](https://www.accenture.com/us-en/careers)",
+          "Create a personal account on the Accenture platform.",
+          "Search for jobs based on your preferences.",
+          "Apply for positions that include aptitude assessments.",
+          "Follow the application instructions provided by Accenture.",
+          "Prepare for the aptitude test using recommended resources."
+        ],
+        "selectionProcess": "Aptitude tests, technical interviews, and HR interviews.",
+        "interviewProcess": "Technical interviews followed by HR interviews."
+      },
+      "DXC": {
+        "title": "DXC Technology",
+        "registrationLink": "https://www.dxc.com/",
+        "registrationProcess": "Visit the DXC Technology website, explore career opportunities, and apply for positions with aptitude assessments.",
+        "details": [
+          "Explore DXC Technology careers: [DXC Technology Careers](https://www.dxc.com/)",
+          "Navigate to the careers section of the DXC Technology website.",
+          "Discover available job positions.",
+          "Apply for positions that require an aptitude test.",
+          "Complete the application process as instructed by DXC.",
+          "Prepare for the aptitude test using recommended resources."
+        ],
+        "selectionProcess": "Aptitude tests, technical interviews, and HR interviews.",
+        "interviewProcess": "Technical interviews followed by HR interviews."
+      },
+      "Cocubes": {
+        "title": "CoCubes",
+        "registrationLink": "https://www.cocubes.com/",
+        "registrationProcess": "Create an account on the CoCubes platform, explore assessments, and register for aptitude tests.",
+        "details": [
+          "Visit the CoCubes website: [CoCubes](https://www.cocubes.com/)",
+          "Create an account on the CoCubes platform.",
+          "Explore available assessments, including aptitude tests.",
+          "Register for aptitude tests that align with your career goals.",
+          "Follow the registration instructions provided by CoCubes.",
+          "Prepare for the aptitude test using CoCubes' recommended resources."
+        ],
+        "selectionProcess": "Aptitude tests, technical interviews, and HR interviews.",
+        "interviewProcess": "Technical interviews followed by HR interviews."
+      },
+      "Cognizant": {
+        "title": "Cognizant",
+        "registrationLink": "https://careers.cognizant.com/",
+        "registrationProcess": "Create a profile on the Cognizant careers portal, explore job opportunities, and apply for positions with aptitude assessments.",
+        "details": [
+          "Visit the Cognizant careers portal: [Cognizant Careers](https://careers.cognizant.com/)",
+          "Create a profile on the Cognizant portal.",
+          "Explore available job opportunities.",
+          "Apply for positions that include aptitude assessments.",
+          "Follow the application instructions provided by Cognizant.",
+          "Prepare for the aptitude test using recommended resources."
+        ],
+        "selectionProcess": "Aptitude tests, technical interviews, and HR interviews.",
+        "interviewProcess": "Technical interviews followed by HR interviews."
+      },
+      "Tech-Mahindra": {
+        "title": "Tech Mahindra",
+        "registrationLink": "https://www.techmahindra.com/careers",
+        "registrationProcess": "Visit the Tech Mahindra careers page, create an account, and apply for positions that require aptitude assessments.",
+        "details": [
+          "Explore Tech Mahindra careers: [Tech Mahindra Careers](https://www.techmahindra.com/careers)",
+          "Create an account on the Tech Mahindra platform.",
+          "Search for positions that include aptitude assessments.",
+          "Apply for the desired job roles.",
+          "Complete the application process as guided by Tech Mahindra.",
+          "Prepare for the aptitude test using recommended resources."
+        ],
+        "selectionProcess": "Aptitude tests, technical interviews, and HR interviews.",
+        "interviewProcess": "Technical interviews followed by HR interviews."
+      },
+      "Delloite": {
+        "title": "Deloitte",
+        "registrationLink": "https://www2.deloitte.com/",
+        "registrationProcess": "Visit the Deloitte careers page, explore job opportunities, and apply for positions with aptitude assessments.",
+        "details": [
+          "Explore Deloitte careers: [Deloitte Careers](https://www2.deloitte.com/)",
+          "Navigate to the Deloitte careers section.",
+          "Discover available job opportunities.",
+          "Apply for positions that require an aptitude test.",
+          "Complete the application process as directed by Deloitte.",
+          "Prepare for the aptitude test using recommended resources."
+        ],
+        "selectionProcess": "Aptitude tests, technical interviews, and HR interviews.",
+        "interviewProcess": "Technical interviews followed by HR interviews."
+      },
+      "Zoho": {
+        "title": "Zoho Corporation",
+        "registrationLink": "https://careers.zohocorp.com/",
+        "registrationProcess": "Visit the Zoho careers page, create an account, explore job listings, and apply for positions with aptitude assessments.",
+        "details": [
+          "Explore Zoho careers: [Zoho Careers](https://careers.zohocorp.com/)",
+          "Create an account on the Zoho platform.",
+          "Browse job listings and find positions with aptitude assessments.",
+          "Apply for the desired job roles.",
+          "Complete the application process as directed by Zoho.",
+          "Prepare for the aptitude test using recommended resources."
+        ],
+        "selectionProcess": "Aptitude tests, technical interviews, and HR interviews.",
+        "interviewProcess": "Technical interviews followed by HR interviews."
+      },
+      "Capgemini": {
+        "title": "Capgemini",
+        "registrationLink": "https://www.capgemini.com/careers/",
+        "registrationProcess": "Visit the Capgemini careers page, create an account, explore job opportunities, and apply for positions with aptitude assessments.",
+        "details": [
+          "Explore Capgemini careers: [Capgemini Careers](https://www.capgemini.com/careers/)",
+          "Create an account on the Capgemini platform.",
+          "Discover job opportunities that include aptitude assessments.",
+          "Apply for positions aligned with your career goals.",
+          "Complete the application process as instructed by Capgemini.",
+          "Prepare for the aptitude test using recommended resources."
+        ],
+        "selectionProcess": "Aptitude tests, technical interviews, and HR interviews.",
+        "interviewProcess": "Technical interviews followed by HR interviews."
+      }
+      
+    }
+  }
+  

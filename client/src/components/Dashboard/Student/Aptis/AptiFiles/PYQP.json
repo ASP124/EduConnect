@@ -1,0 +1,202 @@
+{
+    "QPapers": {
+      "TCS": {
+        "name": "Tata Consultancy Services",
+        "pdfs": [
+          {
+            "title": "Numerical Ability",
+            "url": "/pdfs/TCS-nqt/1 tcs.pdf"
+          },
+          {
+            "title": "Reasoning Ability",
+            "url": "/pdfs/TCS-nqt/2tcs.pdf"
+          },
+          {
+            "title": "Verbal Ability",
+            "url": "/pdfs/TCS-nqt/3tcs.pdf"
+          }
+        ]
+      },
+      "Infosys": {
+        "name": "Infosys",
+        "pdfs": [
+          {
+            "title": "Mathematical Ability & Logical Reasoning",
+            "url": "/pdfs/INFOSYS/infosys1.pdf"
+          },
+          {
+            "title": "Puzzle solving Memory based",
+            "url": "/pdfs/INFOSYS/infosys2.pdf"
+          },
+          {
+            "title": "Reasoning Memory based",
+            "url": "/pdfs/INFOSYS/infosys3.pdf"
+          },
+
+          {
+            "title": "Verbal Ability Memory Based",
+            "url": "/pdfs/INFOSYS/infosys4.pdf"
+          }
+
+          
+        ]
+      },
+      "WIPRO": {
+        "name": "Wipro",
+        "pdfs": [
+          {
+            "title": "Logical Reasoning",
+            "url": "/pdfs/WIPRO/Wipro1.pdf"
+          },
+          {
+            "title": "Quantative Aptitude",
+            "url": "/pdfs/WIPRO/Wipro2.pdf"
+          },
+          {
+            "title": "Verbal Ability Memory Based",
+            "url": "/pdfs/WIPRO/Wipro3.pdf"
+          }
+        ]
+      },
+      "Accenture": {
+        "name": "Accenture",
+        "pdfs": [
+          {
+            "title": "Abstract Reasoning Memory based",
+            "url": "/pdfs/Accenture/Accenture1.pdf"
+          },
+          {
+            "title": "Common Application Memory based",
+            "url": "/pdfs/Accenture/Accenture2.pdf"
+          },
+          {
+            "title": "Critical Reasoning Memory based",
+            "url": "/pdfs/Accenture/Accenture3.pdf"
+          },
+          {
+            "title": "English Memory based",
+            "url": "/pdfs/Accenture/Accenture4.pdf"
+          }
+        
+        ]
+      },
+      "DXC": {
+        "name": "DXC Technology",
+        "pdfs": [
+          {
+            "title": "DXC Aptitude Test Guide",
+            "url": ""
+          },
+          {
+            "title": "DXC Technical Interview Preparation",
+            "url": ""
+          },
+          {
+            "title": "DXC Coding Practice",
+            "url": ""
+          }
+        ]
+      },
+      "Cocubes": {
+        "name": "Cocubes",
+        "pdfs": [
+          {
+            "title": "Cocubes Aptitude Test Guide",
+            "url": ""
+          },
+          {
+            "title": "Cocubes Technical Interview Tips",
+            "url": ""
+          },
+          {
+            "title": "Cocubes Coding Challenges",
+            "url": ""
+          }
+        ]
+      },
+      "Cognizant": {
+        "name": "Cognizant",
+        "pdfs": [
+          {
+            "title": "Cognizant Aptitude Test Guide",
+            "url": ""
+          },
+          {
+            "title": "Cognizant Technical Interview Preparation",
+            "url": ""
+          },
+          {
+            "title": "Cognizant Coding Practice",
+            "url": ""
+          }
+        ]
+      },
+      "Tech-Mahindra": {
+        "name": "Tech Mahindra",
+        "pdfs": [
+          {
+            "title": "Quant Memory based",
+            "url": "/pdfs/Tech-Mahindra/Tech1.pdf"
+          },
+          {
+            "title": "English Comprehension Memory based",
+            "url": "/pdfs/Tech-Mahindra/Tech2.pdf"
+          },
+          {
+            "title": "English General Memory based ",
+            "url": "/pdfs/Tech-Mahindra/Tech3.pdf"
+          }
+
+          ,
+          {
+            "title": "Reasoning Memory based",
+            "url": "/pdfs/Tech-Mahindra/Tech4.pdf"
+          }
+        ]
+      },
+      "Delloite": {
+        "name": "Deloitte",
+        "pdfs": [
+          {
+            "title": "Deloitte Aptitude Test Guide",
+            "url": ""
+          },
+          {
+            "title": "Deloitte Technical Interview Preparation",
+            "url": ""
+          },
+          {
+            "title": "Deloitte Coding Practice",
+            "url": ""
+          }
+        ]
+      },
+      "Zoho": {
+        "name": "Zoho",
+        "pdfs": [
+          {
+            "title": "Zoho Aptitude Test Guide",
+            "url": ""
+          },
+          {
+            "title": "Zoho Technical Interview Tips",
+            "url": ""
+          },
+          {
+            "title": "Zoho Coding Challenges",
+            "url": ""
+          }
+        ]
+      },
+      "Capgemini": {
+        "name": "Capgemini",
+        "pdfs": [
+          {
+            "title": "English Memory based",
+            "url": "/pdfs/Capegimini/Capegimini1.pdf"
+          }
+        ]
+      }
+    }
+  }
+  
