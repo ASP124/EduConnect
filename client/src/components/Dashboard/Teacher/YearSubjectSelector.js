@@ -39,8 +39,6 @@ const YearSubjectSelector = () => {
     "Information Technology",
     "Mechanical",
     "Computer Science",
-    "Civil",
-    "Instrumental",
     "Chemical",
   ];
   const years = ["First Year", "Second Year", "Third Year", "Fourth Year"];
